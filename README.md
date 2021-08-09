@@ -1,14 +1,14 @@
 
-# project--3
+# **project--3
 
-# ONLYPAGES:
-
-
-# OUR PURPOSE:
+## ONLYPAGES:
 
 
+## OUR PURPOSE:
 
-TRELLOBOARD:
+
+
+# **TRELLOBOARD:**
 
 <img width="1440" alt="Screen Shot 2021-08-08 at 8 44 21 PM" src="https://user-images.githubusercontent.com/86076993/128650989-c5288a2d-1af8-4a61-b83a-23e345c9976b.png">
 
@@ -18,12 +18,12 @@ ERD:
 
 
 
-SCREENSHOTS:
+# **SCREENSHOTS:**
 
 
 
 
-SAMPLECODE:
+# **SAMPLECODE:**
 
 SAMPLE
 ````
@@ -72,7 +72,7 @@ function isLoggedIn(req, res, next) {
 ````
 
 
-#TECH USED
+# **TECH USED**
 
 POSTMAN:
 
@@ -93,7 +93,7 @@ MONGOOSE:
 MONGODB:
 
 
-ICE BOX:
+# **ICE BOX**
 
 
 - [ ] Author video sessions
@@ -102,8 +102,8 @@ ICE BOX:
 
 MORE
 
-# RESOURCES:
+# **RESOURCES**
 
 
-#CREDIT:
+# **CREDIT**
 
