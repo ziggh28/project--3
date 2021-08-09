@@ -7,7 +7,7 @@
 * [TRELLO](#trelloBoard)
 * [Screenshots](#screenshots)
 * [SAMPLE CODE](#SAMPLECODE)
-* [ICE BOX](#ICE BOX)
+* [ICE BOX](#ICE-BOX)
 * [RESOURCES](#RESOURCES)
 *  [CREDIT](#CREDIT)
 
