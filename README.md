@@ -5,6 +5,8 @@
 * [General Info](#onlypages)
 * [Technologies Used](#tech-used)
 * [TRELLO](#trelloBoard)
+* [ERD](#ERD)
+* [WIRE FRAME](#WIREFRAME)
 * [Screenshots](#screenshots)
 * [SAMPLE CODE](#SAMPLECODE)
 * [ICE BOX](#ICE-BOX)
@@ -32,6 +34,7 @@ https://trello.com/b/psQLIPk4/project-3
 
 # **ERD**
 
+# ** WIREFRAME**
 
 
 # **SCREENSHOTS:**
