@@ -88,7 +88,7 @@ REACT:
 
 GOOGLE OAUTH:
 
-MONGOOSE:
+MONGOOSE:<br>**Mongoose:**<br>![Mongoose](public/images/mongooseLogo.png)
 
 MONGODB:
 
