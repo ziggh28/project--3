@@ -34,7 +34,7 @@ https://trello.com/b/psQLIPk4/project-3
 
 # **ERD**
 
-# ** WIREFRAME**
+# **WIREFRAME**
 
 
 # **SCREENSHOTS:**
