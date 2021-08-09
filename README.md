@@ -93,7 +93,7 @@ MONGOOSE:
 MONGODB:
 
 
-#ICE BOX:
+ICE BOX:
 
 
 - [ ] Author video sessions
