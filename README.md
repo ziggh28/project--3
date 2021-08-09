@@ -34,6 +34,9 @@ https://trello.com/b/psQLIPk4/project-3
 
 # **ERD**
 
+![Screen Shot 2021-08-08 at 9 57 12 PM](https://user-images.githubusercontent.com/86076993/128653476-ff01df93-7767-4262-8db2-531b89f0de9f.png)
+
+
 # **WIREFRAME**
 
 
