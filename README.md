@@ -1,6 +1,14 @@
 
 # project--3
 
+## Table of Contents
+* [General Info](#onlypages)
+* [Technologies Used](#tech-used)
+* [TRELLO](#trelloBoard)
+* [Screenshots](#screenshots)
+* [SAMPLE CODE](#SAMPLECODE)
+
+
 ## ONLYPAGES:books:
 
 I'm a fan of your works
