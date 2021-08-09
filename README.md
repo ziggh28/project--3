@@ -76,17 +76,41 @@ function isLoggedIn(req, res, next) {
 
 POSTMAN:
 
+![download-5](https://user-images.githubusercontent.com/86076993/128652014-8db64c29-00a7-4bd5-8dab-dfe9271085f9.png)
+
+
 API:
 
 BOOTSCRAP:
 
+
+![download-2](https://user-images.githubusercontent.com/86076993/128651943-f9ad1584-1947-48ca-a943-d9be9fb78ea2.png)
+
+
+
 GITHUB:
+
+![download-1](https://user-images.githubusercontent.com/86076993/128651913-e40bafae-ddb0-4ec6-9d8b-0734ba654b72.png)
+
 
 SOCKET IO:
 
+![download-4](https://user-images.githubusercontent.com/86076993/128651992-13f7c6d2-e5bb-433c-bf16-09acc6d47db6.png)
+
+
+
+
 REACT: 
 
+![download](https://user-images.githubusercontent.com/86076993/128651910-5ff17e75-267c-4838-be3f-3eb39e83fe9c.png)
+
+
+
 GOOGLE OAUTH:
+
+
+![download](https://user-images.githubusercontent.com/86076993/128651856-24cdb184-bb35-49a7-9749-6f87e80d7113.jpg)
+
 
 MONGOOSE:
 
@@ -95,6 +119,7 @@ MONGOOSE:
 
 MONGODB:
 
+![download-3](https://user-images.githubusercontent.com/86076993/128651988-d8626fb3-0079-4303-859c-6b8841058be3.png)
 
 # **ICE BOX**
 
