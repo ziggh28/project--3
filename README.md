@@ -98,12 +98,9 @@ MONGODB:
 
 - [ ] Author video sessions
 
+- [ ] event
 
-- [ ]event
-
-
-
-.More
+MORE
 
 # RESOURCES:
 
