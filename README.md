@@ -8,13 +8,13 @@
 
 
 
-# **TRELLOBOARD:**
+# **TRELLOBOARD**
 
 <img width="1440" alt="Screen Shot 2021-08-08 at 8 44 21 PM" src="https://user-images.githubusercontent.com/86076993/128650989-c5288a2d-1af8-4a61-b83a-23e345c9976b.png">
 
 https://trello.com/b/psQLIPk4/project-3
 
-ERD:
+# **ERD**
 
 
 
@@ -88,7 +88,8 @@ REACT:
 
 GOOGLE OAUTH:
 
-MONGOOSE:<br>**Mongoose:**<br>![Mongoose](public/images/mongooseLogo.png)
+MONGOOSE:![mongoose](https://user-images.githubusercontent.com/86076993/128651766-9027ac06-982e-45d9-9492-364637a7cbde.png)
+
 
 MONGODB:
 
