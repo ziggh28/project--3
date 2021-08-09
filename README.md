@@ -88,7 +88,9 @@ REACT:
 
 GOOGLE OAUTH:
 
-MONGOOSE:![mongoose](https://user-images.githubusercontent.com/86076993/128651766-9027ac06-982e-45d9-9492-364637a7cbde.png)
+MONGOOSE:
+
+![mongoose](https://user-images.githubusercontent.com/86076993/128651766-9027ac06-982e-45d9-9492-364637a7cbde.png)
 
 
 MONGODB:
