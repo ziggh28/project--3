@@ -1,3 +1,4 @@
+
 # project--3
 
 # ONLYPAGES:
@@ -9,8 +10,7 @@
 
 #TRELLOBOARD:
 
-
-
+<img width="1440" alt="Screen Shot 2021-08-08 at 8 44 21 PM" src="https://user-images.githubusercontent.com/86076993/128650989-c5288a2d-1af8-4a61-b83a-23e345c9976b.png">
 
 https://trello.com/b/psQLIPk4/project-3
 
@@ -25,6 +25,7 @@ https://trello.com/b/psQLIPk4/project-3
 
 #SAMPLECODE:
 
+SAMPLE
 ````
 
 // post s.1.6 import router from express 
@@ -73,6 +74,15 @@ function isLoggedIn(req, res, next) {
 
 #TECH USED:
 
+POSTMAN
+
+API
+
+BOOTSCRAP
+
+GITHUB
+
+SOCKET IO
 
 # RESOURCES:
 
