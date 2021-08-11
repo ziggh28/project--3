@@ -128,7 +128,7 @@ REACT:
 
 
 
-GOOGLE OAUTH:
+JWT OLAF:
 
 
 ![download](https://user-images.githubusercontent.com/86076993/128651856-24cdb184-bb35-49a7-9749-6f87e80d7113.jpg)
